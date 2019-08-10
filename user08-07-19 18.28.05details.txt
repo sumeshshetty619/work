@@ -1,0 +1,1 @@
+make enter key work as button click in tkinter - Google Search - Google ChromeC:\Users\suma\Desktop\work\gui.py (Desktop) - Sublime Text (UNREGISTERED)Command PromptProgram Manager
